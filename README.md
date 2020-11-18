@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Product designer @ Betha Sistemas.
+Designer @ Betha Sistemas.
 
 Currently, in love with front-end development.🖤
 
